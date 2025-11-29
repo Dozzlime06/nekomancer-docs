@@ -33,7 +33,7 @@ Nekomancer is a decentralized exchange (DEX) swap aggregator built on **Monad Ma
 
 ## Smart Contracts
 
-### SwapAggregatorV32 (Main Contract)
+### SwapAggregator (Main Contract)
 | Property | Value |
 |----------|-------|
 | Proxy Address | `0x6524822e437dcd23d62c77496d7a0ac980fbc81d` |
