@@ -1,10 +1,10 @@
-# SwapAggregatorV32
+# SwapAggregator
 
 The main smart contract that handles all token swaps on Nekomancer.
 
 ## Overview
 
-SwapAggregatorV32 is a UUPS upgradeable contract that:
+SwapAggregator is a UUPS upgradeable contract that:
 - Routes swaps through multiple DEXes
 - Collects and distributes platform fees
 - Integrates with ReferralVault for referral tracking
