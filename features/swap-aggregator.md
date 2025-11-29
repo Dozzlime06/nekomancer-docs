@@ -74,7 +74,7 @@ Fee distribution:
 
 ## Smart Contract
 
-The SwapAggregatorV32 contract handles all swaps:
+The SwapAggregator contract handles all swaps:
 
 | Property | Value |
 |----------|-------|
