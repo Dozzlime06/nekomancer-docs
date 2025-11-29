@@ -4,7 +4,7 @@ All notable updates to Nekomancer.
 
 ## November 29, 2025
 
-### SwapAggregatorV32
+### SwapAggregator
 - **New**: ReferralVault integration
 - **New**: WithReferral swap functions
 - **New**: 30/20/50 fee split (platform/referral/staking)
