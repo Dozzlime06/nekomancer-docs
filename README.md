@@ -5,8 +5,6 @@ coverY: 0
 
 # Nekomancer DEX Documentation
 
-<figure><img src=".gitbook/assets/banner.png" alt="Nekomancer Banner"><figcaption></figcaption></figure>
-
 ## Overview
 
 Nekomancer is a decentralized exchange (DEX) swap aggregator built on **Monad Mainnet (Chain 143)**. It routes trades through multiple DEXes to find the best prices, collects platform fees, and features a referral system with claimable earnings.
