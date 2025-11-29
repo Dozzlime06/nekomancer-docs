@@ -4,7 +4,7 @@ All Nekomancer smart contracts deployed on Monad Mainnet (Chain 143).
 
 ## Core Contracts
 
-### SwapAggregatorV32
+### SwapAggregator
 The main swap routing contract.
 
 | Property | Value |
