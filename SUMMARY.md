@@ -17,7 +17,7 @@
 ## Smart Contracts
 
 * [Contract Addresses](contracts/addresses.md)
-* [SwapAggregatorV32](contracts/swap-aggregator.md)
+* [SwapAggregator](contracts/swap-aggregator.md)
 * [ReferralVault](contracts/referral-vault.md)
 * [StakingVault](contracts/staking-vault.md)
 
