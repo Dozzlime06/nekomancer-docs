@@ -1,4 +1,11 @@
+---
+cover: .gitbook/assets/banner.png
+coverY: 0
+---
+
 # Nekomancer DEX Documentation
+
+<figure><img src=".gitbook/assets/banner.png" alt="Nekomancer Banner"><figcaption></figcaption></figure>
 
 ## Overview
 
