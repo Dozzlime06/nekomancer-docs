@@ -1,35 +1,41 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Nekomancer](README.md)
 
 ## Getting Started
 
-* [What is Nekomancer?](getting-started/what-is-nekomancer.md)
-* [Connecting Your Wallet](getting-started/connecting-wallet.md)
-* [Making Your First Swap](getting-started/first-swap.md)
+* [Quickstart](quickstart.md)
+* [Connect Wallet](getting-started/connect-wallet.md)
+* [Get USDC](getting-started/get-usdc.md)
 
-## Features
+## Markets
 
-* [Swap Aggregator](features/swap-aggregator.md)
-* [Referral Program](features/referral-program.md)
-* [Staking Rewards](features/staking.md)
+* [How It Works](markets/how-it-works.md)
+* [Pricing & AMM](markets/pricing.md)
+* [Market Categories](markets/categories.md)
+* [Fees](markets/fees.md)
 
-## Smart Contracts
+## $NEKO Token
 
-* [Contract Addresses](contracts/addresses.md)
-* [SwapAggregator](contracts/swap-aggregator.md)
-* [ReferralVault](contracts/referral-vault.md)
-* [StakingVault](contracts/staking-vault.md)
+* [Tokenomics](tokenomics.md)
 
-## Technical Reference
+## Resolution
 
-* [API Endpoints](technical/api-endpoints.md)
-* [Supported DEXes](technical/supported-dexes.md)
-* [Token Support](technical/tokens.md)
-* [Fee Structure](technical/fees.md)
+* [Oracle System](resolution/oracle.md)
+* [Proposing Outcomes](resolution/proposing.md)
+* [Challenging](resolution/challenging.md)
+* [Claiming Winnings](resolution/claiming.md)
+
+## Technical
+
+* [Smart Contract](technical/contract.md)
+* [Contract Functions](technical/functions.md)
+* [Events](technical/events.md)
+* [Upgradeability](technical/upgrades.md)
 
 ## Resources
 
-* [FAQ](resources/faq.md)
-* [Security](resources/security.md)
-* [Changelog](resources/changelog.md)
+* [FAQ](faq.md)
+* [Security](security.md)
+* [Changelog](changelog.md)
+* [Brand Assets](brand.md)
