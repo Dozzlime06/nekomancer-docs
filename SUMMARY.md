@@ -15,7 +15,7 @@
 * [Market Categories](markets/categories.md)
 * [Fees](markets/fees.md)
 
-## $NEKO Token
+## $MANCER Token
 
 * [Tokenomics](tokenomics.md)
 
