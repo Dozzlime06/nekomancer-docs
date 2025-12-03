@@ -1,12 +1,14 @@
 # Tokenomics
 
-$NEKO — The native token of Nekomancer.
+$MANCER — The native token of Nekomancer.
 
 ---
 
 ## Overview
 
-$NEKO is a deflationary utility token. All platform fees go to buying and burning $NEKO permanently.
+$MANCER is a deflationary utility token. All platform fees go to buying and burning $MANCER permanently.
+
+**After launch, $MANCER becomes the native currency for predictions.** Instead of USDC, users will bet using $MANCER tokens directly.
 
 ---
 
@@ -15,18 +17,36 @@ $NEKO is a deflationary utility token. All platform fees go to buying and burnin
 Every trade on Nekomancer generates a 2% fee.
 
 ```
-Trade → Fee (USDC) → Swap to $NEKO → Burn
+Trade → Fee (USDC) → Swap to $MANCER → Burn
 ```
 
 This happens automatically on every single trade:
 
 1. User buys shares for 100 USDC
 2. 2 USDC fee collected
-3. Fee swaps to $NEKO via DEX
-4. $NEKO sent to dead address
+3. Fee swaps to $MANCER via DEX
+4. $MANCER sent to dead address
 5. Supply permanently reduced
 
 **More trading = more burns = smaller supply = increased scarcity**
+
+---
+
+## Post-Launch: $MANCER as Prediction Currency
+
+After the initial launch phase:
+
+- **All predictions made with $MANCER** (not USDC)
+- Users buy $MANCER to participate in markets
+- Winning payouts in $MANCER
+- Creates constant demand for the token
+- Burns still happen from platform fees
+
+This creates a dual flywheel:
+1. **Demand:** Users need $MANCER to bet
+2. **Supply reduction:** Fees burn $MANCER
+
+More users → more demand → more volume → more burns → scarcity increases.
 
 ---
 
@@ -58,7 +78,8 @@ Supply only goes down, never up.
 ### Current
 - Buyback & burn from protocol fees
 
-### Planned
+### After Launch
+- **Native prediction currency** — Bet using $MANCER
 - Governance voting
 - Fee discounts for holders
 - Exclusive market creation
@@ -102,7 +123,7 @@ All burns are on-chain and verifiable:
 
 Most tokens inflate. Staking rewards, LP emissions, team unlocks — they all dilute holders.
 
-$NEKO is different. The only direction is down.
+$MANCER is different. The only direction is down.
 
 - Platform grows → more volume → more burns
 - More burns → less supply → increased scarcity
