@@ -6,7 +6,7 @@ Get trading in 5 minutes.
 
 ## Step 1: Connect Wallet
 
-1. Go to [nekomancer.xyz](https://nekomancer.xyz)
+1. Go to [nekomancer.fun](https://www.nekomancer.fun/markets)
 2. Click **Connect Wallet**
 3. Select MetaMask (or any WalletConnect-compatible wallet)
 4. Switch to Monad network when prompted
