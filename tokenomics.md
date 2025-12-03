@@ -103,9 +103,9 @@ Full breakdown released at TGE.
 
 ## Contract
 
-Token contract: [TBA]
+Token contract: `0x4e12a73042b4964a065a11a3f7845dc0b2717777`
 
-Will be verified and renounced after launch.
+Network: Monad Mainnet (Chain ID: 143)
 
 ---
 
@@ -133,7 +133,7 @@ $MANCER is different. The only direction is down.
 
 ## Links
 
-- Token Contract: [TBA]
-- DEX: [TBA]
-- Chart: [TBA]
-- Burn Tracker: [Coming soon on website]
+- Token Contract: [0x4e12a73042b4964a065a11a3f7845dc0b2717777](https://monadvision.com/token/0x4e12a73042b4964a065a11a3f7845dc0b2717777)
+- DEX: [nad.fun](https://nad.fun)
+- Chart: Coming soon
+- Burn Tracker: Coming soon on website
