@@ -28,31 +28,32 @@ Example:
 
 ## Buyback & Burn
 
-**100% of platform fees go to $NEKO buyback and burn.**
+**100% of platform fees go to $MANCER buyback and burn.**
 
-Every trade generates fees. Those fees buy $NEKO from the market and burn it permanently.
+Every trade generates fees. Those fees buy $MANCER from the market and burn it permanently.
 
 This creates constant buy pressure and deflationary supply.
 
 How it works:
 1. You trade → 2% fee collected in USDC
-2. USDC swaps to $NEKO automatically
-3. $NEKO sent to burn address
+2. USDC swaps to $MANCER automatically
+3. $MANCER sent to burn address
 4. Supply decreases forever
 
 More volume = more burns = less supply.
 
 ---
 
-## $NEKO Token
+## $MANCER Token
 
 The native token of Nekomancer protocol.
 
-- **Utility:** Fee burns, governance (coming soon)
+- **Utility:** Fee burns, prediction currency (post-launch), governance (coming soon)
 - **Supply:** Deflationary via buyback & burn
+- **Post-Launch:** $MANCER becomes the native currency for all predictions
 - **Contract:** [TBA]
 
-See [Tokenomics](tokenomics.md) for full details.
+See [Tokenomics](../tokenomics.md) for full details.
 
 ---
 
