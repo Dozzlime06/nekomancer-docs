@@ -108,6 +108,6 @@ Theoretically someone could keep challenging to delay resolution. Bond escalatio
 
 Found a bug? Security vulnerability?
 
-Contact: security@nekomancer.xyz
+Contact: security@nekomancer.fun
 
 Responsible disclosure appreciated. Bounties available for critical issues.
