@@ -51,7 +51,7 @@ The native token of Nekomancer protocol.
 - **Utility:** Fee burns, prediction currency (post-launch), governance (coming soon)
 - **Supply:** Deflationary via buyback & burn
 - **Post-Launch:** $MANCER becomes the native currency for all predictions
-- **Contract:** [TBA]
+- **Contract:** `0x4e12a73042b4964a065a11a3f7845dc0b2717777`
 
 See [Tokenomics](../tokenomics.md) for full details.
 
