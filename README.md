@@ -43,11 +43,13 @@ Every market has YES and NO shares. Prices move based on demand. When the event 
 
 ---
 
-## $NEKO Token
+## $MANCER Token
 
-All platform fees (2% per trade) go to **buyback and burn** of $NEKO.
+All platform fees (2% per trade) go to **buyback and burn** of $MANCER.
 
 More volume → more burns → less supply → increased scarcity.
+
+**After Launch:** $MANCER will become the native prediction currency. Bet with $MANCER instead of USDC.
 
 [Learn more about tokenomics →](tokenomics.md)
 
